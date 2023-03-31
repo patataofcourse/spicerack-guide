@@ -13,5 +13,6 @@
     - 000400000018a400 - Rhythm Heaven Megamix (US)
     - 000400000018a500 - Rhythm Paradise Megamix (EU)
     - 000400000018a600 - Rhythm Sesang: The Best + (KR)
+    - **Keep in mind that to load RomFS assets you'll need to enable game patching in Luma3DS** - hold Select while booting to enter the config menu
 1. Boot Barista through the Homebrew Launcher or your Home Menu, depending on method of installation
 1. Follow the instructions inside the app
