@@ -1,5 +1,7 @@
 **Disclaimer:** The Japanese version of Rhythm Heaven Megamix (Rhythm Tengoku: The Best +) is not currently supported. Sorry for the bother!
 
+#### These instructions are to set up SpiceRack in a 3DS console! Citra instructions [here](./citra.md) 
+
 You can skip Step 2 if you've recently played CTGP-7, since its launcher installs the required fork of Luma3DS.
 
 1. Download Saltwater <!--[(here)]()--> and Barista <!--[(here)]()-->
@@ -18,4 +20,4 @@ You can skip Step 2 if you've recently played CTGP-7, since its launcher install
         - Keep in mind that this will likely set the language of some aspects of your game to English! For proper non-English support, you'll need to use mods that are properly localized.
         - The full list of languages and region codes is: `US`, `JP`, `KR`, `EU`, `EUEN`, `EUSP`, `EUIT`, `EUFR`, `EUGE`
 1. Boot Barista through the Homebrew Launcher or your Home Menu, depending on method of installation
-1. Follow the instructions inside the app
+1. Set up your mods inside the app and launch your preferred version of Megamix
