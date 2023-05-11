@@ -9,7 +9,7 @@
 1. Install your Barista .cia into Citra or place the .3dsx in your ROMs folder
 1. Open your Citra folder (File > Open Citra folder)
 1. Place the Saltwater.3gx file inside your Citra folder, in `sdmc/spicerack/bin`
-1. Create, if it doesn't exist, a `sdmc/luma/plugins` folder in your Citra SD. Don't place anything inside
+1. Create, if it doesn't exist, a `sdmc/luma/plugins` folder in your Citra folder. Don't place anything inside
 1. Place any .btk (Tickflow) files for mods you want to play in `sdmc/spicerack/mods`
 1. Place your mods' RomFS (model, cellanim, layout, effect, etc.) folders in `load/mods/[YOUR ID GOES HERE]/romfs`, where the ID is:
     - 000400000018a400 - Rhythm Heaven Megamix (US)
