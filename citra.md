@@ -1,6 +1,6 @@
 **Disclaimer:** The Japanese version of Rhythm Heaven Megamix (Rhythm Tengoku: The Best +) is not currently supported. Sorry for the bother!
 
-### These instructions are to set up SpiceRack in Citra! Hardware instructions [here](./index.md) 
+### These instructions are to set up SpiceRack in Citra! Hardware instructions [here](index.md) 
 
 1. Make sure you're using a somewhat recent version of Citra (nightly 1819 onwards)
 1. Download Saltwater <!--[(here)]()--> and Barista <!--[(here)]()-->

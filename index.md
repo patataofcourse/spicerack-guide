@@ -1,6 +1,6 @@
 **Disclaimer:** The Japanese version of Rhythm Heaven Megamix (Rhythm Tengoku: The Best +) is not currently supported. Sorry for the bother!
 
-### These instructions are to set up SpiceRack in a 3DS console! Citra instructions [here](./citra.md) 
+### These instructions are to set up SpiceRack in a 3DS console! Citra instructions [here](citra.md) 
 
 You can skip Step 2 if you've recently played CTGP-7, since its launcher installs the required fork of Luma3DS.
 
