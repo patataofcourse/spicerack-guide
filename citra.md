@@ -6,7 +6,7 @@
 1. Download Saltwater [(here)](https://github.com/patataofcourse/Saltwater/releases/latest) and Barista <[(here)](https://github.com/patataofcourse/Barista/releases/latest)
 1. Install Megamix into Citra **as a CIA**
     - This part is very important - otherwise, Barista won't be able to boot Megamix
-1. Install your Barista .cia into Citra or place the .3dsx in your ROMs folder
+1. Install the Barista .cia into Citra or place the Barista .3dsx in your ROMs folder
 1. Open your Citra folder (File > Open Citra folder)
 1. Place the Saltwater.3gx file inside your Citra folder, in `sdmc/spicerack/bin`
 1. Create, if it doesn't exist, a `sdmc/luma/plugins` folder in your Citra folder. Don't place anything inside

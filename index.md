@@ -9,7 +9,7 @@ If your 3DS doesn't have CFW at all, check out the amazing guide by the folks at
 1. Download Saltwater [(here)](https://github.com/patataofcourse/Saltwater/releases/latest) and Barista <[(here)](https://github.com/patataofcourse/Barista/releases/latest)
 1. Download the latest version of Luma3DS, which you can find [over here](https://github.com/LumaTeam/Luma3DS/releases/latest)
     - If you had any settings on in the Luma3DS menu, turn them on again! They'll most likely have reset after changing your Luma version.
-1. Install your Barista .cia or place the .3dsx in your `/3ds` folder
+1. Install the Barista .cia with FBI or place the Barista .3dsx in your `/3ds` folder
 1. Place the Saltwater.3gx file in a folder in your SD named `/spicerack/bin`
 1. Create, if it doesn't exist, a `/luma/plugins` folder in your SD. Don't place anything inside
 1. Place any .btk (Tickflow) files for mods you want to play in `/spicerack/mods`
