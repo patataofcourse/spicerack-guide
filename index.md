@@ -2,11 +2,11 @@
 
 ### These instructions are to set up SpiceRack in a 3DS console! Citra instructions [here](citra.md) 
 
-You can skip Step 2 if you have a Luma version 13.0 or higher.
+You can skip Step 2 if you have Luma3DS version 13.0 or higher.
 
 If your 3DS doesn't have CFW at all, check out the amazing guide by the folks at [3ds.hacks.guide](https://3ds.hacks.guide) to know how to mod your console!
 
-1. Download Saltwater <!--[(here)]()--> and Barista <!--[(here)]()-->
+1. Download Saltwater [(here)](https://github.com/patataofcourse/Saltwater/releases/latest) and Barista <[(here)](https://github.com/patataofcourse/Barista/releases/latest)
 1. Download the latest version of Luma3DS, which you can find [over here](https://github.com/LumaTeam/Luma3DS/releases/latest)
     - If you had any settings on in the Luma3DS menu, turn them on again! They'll most likely have reset after changing your Luma version.
 1. Install your Barista .cia or place the .3dsx in your `/3ds` folder
