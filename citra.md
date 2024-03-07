@@ -3,6 +3,7 @@
 ### These instructions are to set up SpiceRack in Citra! Hardware instructions [here](index.md) 
 
 1. Make sure you're using a somewhat recent version of Citra (nightly 1819 onwards)
+    - Note: Since the official Citra repository has been taken down, you can use [PabloMK7's fork](https://github.com/PabloMK7/citra/releases/latest) for the time being.
 1. Download Saltwater [(here)](https://github.com/patataofcourse/Saltwater/releases/latest) and Barista <[(here)](https://github.com/patataofcourse/Barista/releases/latest)
 1. Install Megamix into Citra **as a CIA**
     - This part is very important - otherwise, Barista won't be able to boot Megamix
